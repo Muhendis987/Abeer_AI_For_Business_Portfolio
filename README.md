@@ -5,7 +5,7 @@ Reflection section<br>
 This portfolio of machine learning projects demonstrates hands-on experience in building, evaluating,and deploying end-to-end AI models. It spans critical ML lifecycle stages, preparing you for real-world industry tasks.<br>
 Skills Developed Across All Modules<br>
 • Data Preprocessing: Handled messy real-world data by imputing missing values, removing outliers, scaling numerical features, and encoding categorical variables using robust Pandas and scikit-learn pipelines.<br>
-• Model Tuning: Executed hyperparameter optimization (e.g., Grid Search, Random Search), regularized algorithms to prevent overfitting, and selected the<br> best-performing metrics (like F1, Precision, or RMSE) for various classification and regression tasks.<br>
+• Model Tuning: Executed hyperparameter optimization (e.g., Grid Search, Random Search), regularized algorithms to prevent overfitting, and selected the best-performing metrics (like F1, Precision, or RMSE) for various classification and regression tasks.<br>
 • Visualization: Designed exploratory data analysis (EDA) plots to uncover data trends, map feature correlations, and compare predicted values versus actual outcomes to interpret model behavior.<br>
 Real-World Preparation<br>
 These projects simulate the exact workflows expected in enterprise ML and AI engineering roles. By moving beyond theoretical concepts, you learned to create modular pipelines, debug coding and data errors, and iterate on models systematically based on performance. This translates directly to solving practical business problems such as customer churn forecasting, personalized recommendations, or predictive analytics.<br>
